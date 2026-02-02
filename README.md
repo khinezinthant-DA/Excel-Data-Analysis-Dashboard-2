@@ -2,14 +2,12 @@
 An interactive Excel dashboard that explores e-commerce customer behavior
 
 ## Dashboard
-<img width="2351" height="1074" alt="Image" src="https://github.com/user-attachments/assets/56cb2fe7-3a7b-4610-9efb-a33d80dd07ea" />
-This project is an interactive Coffee Sales Dashboard designed to analyze sales performance across different time periods, countries, products, and customer segments. The dashboard provides clear insights into sales trends and customer behavior to support data-driven decision making.
-
-📌Credit to this video tutorial:
-🎥 YouTube - “Coffee Sales Dashboard Tutorial” → https://youtu.be/m13o5aqeCbM?si=An2cB7OASU_CuRiL
+<img width="1872" height="976" alt="Image" src="https://github.com/user-attachments/assets/8fbe5805-1eb5-427b-be30-ed30d9cb4796" />
+This project presents an interactive E-Commerce Customer Behavior Analysis Dashboard designed to uncover insights into customer purchasing patterns, satisfaction levels, and revenue distribution.
+The dashboard enables users to explore customer data dynamically using slicers such as city, gender, activity status, and membership type, supporting data-driven commercial decision-making.
 
 ## Datasets used
-- <a href="https://github.com/khinezinthant-DA/Excel-Data-Analysis-Dashboard-1/blob/main/coffeeOrdersData_rawdata.xlsx">Raw Dataset</a>
+- <a href="https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset?resource=download">Raw Dataset</a>
 - <a href="https://github.com/khinezinthant-DA/Excel-Data-Analysis-Dashboard-1/blob/main/coffeeOrdersData_processeddata.xlsx">Processed Dataset and Interactive Dashboard</a>
 
 ## Features Overview

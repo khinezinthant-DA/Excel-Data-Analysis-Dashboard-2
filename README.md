@@ -96,5 +96,5 @@ Key findings show that customers aged 30–35 are the highest spenders, active c
 To boost overall customer engagement and loyalty, businesses should focus on converting moderately active customers into active ones through targeted promotions, limited-time offers, and personalized reminders, helping to prevent churn. At the same time, the Bronze membership experience should be carefully reviewed, including benefits, pricing, and service quality, to address dissatisfaction and reduce the risk of members becoming inactive. Enhancing customer satisfaction initiatives is also crucial, as higher satisfaction ratings are linked to increased spending; this can be achieved by prioritizing product quality, exceptional customer service, and post-purchase engagement. Additionally, discount strategies should be reconsidered—rather than applying discounts broadly, they should be used strategically for reactivating dormant customers, ensuring profitability is maintained.
 
 ## Interactive Dashboard Demo
-<img width="2351" height="1074" alt="Image" src="https://github.com/user-attachments/assets/67741130-1171-41b2-a3e2-dff047de5f90" />
+<img width="2351" height="1074" alt="Image" src="https://github.com/user-attachments/assets/c1ec3a67-d5f4-44ae-b6ab-57e847a5f4cf" />
 
